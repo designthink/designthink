@@ -2,8 +2,10 @@
 
 📍 **Auckland ↔ Europe** | 🤖 **Product & Design. All in on AI.** 
 
-> Vibe-coding PM/Designer. Experienced Product Manager, Design Lead, and Software Engineer. 15+ years of architecting, designing, building, leading and launching apps for startups and corporates. Currently focused on Applied AI.
+> Vibe-coding Senior Product & Technology Leader with 18+ years of experience across product, design, and engineering, building and scaling digital products in AI, SaaS, legal tech, fintech, and healthcare. Currently focused on Applied AI.
 
-Previously, I led product teams at Tradify, Adherium, Bloomberg, and 12080.AI, and helped conceptualise, design and build products for Isobar, Kotahi, Mitey, AJ Hackett, News International, and AKQA among others. I have deep multi-domain expertise across product management, design leadership, user experience research and design, software engineering, and marketing.
+Currently leading the full product and technology function as CPTO at a legal-tech company, reporting to the Board and driving strategy, platform evolution, analytics, infrastructure, and cross-functional execution. Previously, I’ve led product teams at Tradify, Adherium, Bloomberg, and 12080, and have helped shape and deliver products across startups, scale-ups, and enterprise environments.
 
-If you’re looking for someone to innovate and lead your product, manage one or more cross-functional product teams, advise on how AI tools and technologies can be integrated into your product and processes, or need some rapid vibe-prototyping, [get in touch](https://www.linkedin.com/in/tristan-holman/).
+My background spans product strategy, UX and interaction design, software engineering, rapid prototyping, systems thinking, and applied AI implementation. I’m especially interested in building practical AI-powered products, improving how teams work with AI, and using modern tooling to dramatically accelerate product development.
+
+If you’re building with AI, implementing AI into an existing product or workflow, or need a senior product and technology leader who can also get hands-on and ship, get in touch. If you have an interesting role to fill, I’d be glad to hear from you., [get in touch](https://www.linkedin.com/in/tristan-holman/).
